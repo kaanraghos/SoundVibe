@@ -1,0 +1,30 @@
+PODS:
+  - Appirater (2.3.1)
+  - AQPlayer (0.1.0)
+  - SDWebImage (5.18.10):
+    - SDWebImage/Core (= 5.18.10)
+  - SDWebImage/Core (5.18.10)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Appirater
+  - AQPlayer
+  - SDWebImage
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Appirater
+    - AQPlayer
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Appirater: 44a4651f7912a17dc906b655f0c215d5bb768b84
+  AQPlayer: 47f14141b99ba55a5fecf3aec477b88f7069e5fa
+  SDWebImage: fc8f2d48bbfd72ef39d70e981bd24a3f3be53fec
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 2d6b55da898d92fbf1dc86c7becb268d52efe661
+
+COCOAPODS: 1.15.0
